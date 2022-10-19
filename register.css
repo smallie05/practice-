@@ -1,0 +1,151 @@
+﻿body {
+      background: url(lighthouse.jpg);
+      backgroung-position: center;
+      background-size: cover;
+      font-family: sans-serif;
+      margin-top: 40px;
+} 
+* {
+    margin: 0;
+    padding: 0;
+}
+.regform {
+    width: 800px;
+    background-color:(211,211,211);
+    margin: auto;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+.main {
+    background-color: rgb(50,70,70);
+    width: 800px;
+    margin: auto;
+}
+#name {
+    width: 100px;
+    height: 100px;
+}
+.name {
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+}
+.firstname {
+    position: relative;
+    left: 200px;
+    top: -29px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.lastname {
+    position: relative;
+    left: 200px;
+    top: -29px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.Age {
+    margin-left: 25px;
+    margin-top: -35px;
+    width: 125px;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+}
+.age {
+    position: relative;
+    left: 200px;
+    top: -29px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.Gender {
+     margin-top: -7px;
+     margin-left: 25px;
+     width: 125px;
+     font-size: 22px;
+     font-weight: 700;
+     color: white;
+}
+.gender {
+    position: relative;
+    left: 200px;
+    top: -23px;
+    border-radius: 6px;
+    height: 30px;
+}
+.Email {
+    margin-left: 25px;
+    margin-top: 8px;
+    width: 125px;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+}
+.email {
+    position: relative;
+    left: 200px;
+    top: -30px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.Phone {
+    margin-left: 25px;
+    margin-top: 8px;
+    width: 125px;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+}
+.phone {
+    position: relative;
+    left: 200px;
+    top: -30px;
+    height:32px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.number {
+    position: relative;
+    left: 200px;
+    top: -30px;
+    height: 32px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.Password {
+    margin-left: 25px;
+    margin-top: 8px;
+    width: 125px;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+} 
+.password {
+    position: relative;
+    left: 200px;
+    top: -30px;
+    height: 32px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.condition {
+    
